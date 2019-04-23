@@ -6,7 +6,7 @@ for day in range(7):
     if day == 1:
         print("周二吃手撕猪手")
     if day == 2:
-        print("周三吃红烧肉")
+        print("周三吃巴西烤肉")
     if day == 3:
         print("周四吃手撕鸡")
     if day == 4:
